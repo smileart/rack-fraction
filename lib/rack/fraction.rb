@@ -5,7 +5,7 @@ module Rack
   # Middleware which lets you to execute arbitrary code just for a certain fraction of requests
   class Fraction
     # Current lib version
-    VERSION = '0.0.1'
+    VERSION = '1.0.0'
 
     # Initialisation of the middleware
     #
